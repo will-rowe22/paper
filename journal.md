@@ -18,3 +18,7 @@ It reproduces growthn in size distribution observed and suggests coagulation as 
 # Methodology
 
 We used AMS (Allan et al 1999) to measure particle mass and chemical compositions.
+
+# Conclusions
+
+We made some groundbreaking discovery, aren't we great. Give us more funding.
