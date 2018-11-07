@@ -1,8 +1,10 @@
 # Title 
+Simulations of 
 Biomass burning aerosol over W.Africa
 
 #Author
 Gerrard Capes
+John Smith
 
 # Introduction 
 
