@@ -3,7 +3,7 @@ Model-meausurement comparison of
 Biomass burning aerosol over W.Africa
 
 #Author
-
+Sam Humphrey, University of Manchester
 John Smith, University of Elsewhere
 Gerrard Capes, University of Manchester
 
@@ -41,4 +41,4 @@ This is where the figures go in a draft manuscript.
 
 We woudl like to thank the EU funding body, for their support. RIP :( (?)
 
-
+I'd like to thank Sam too!
