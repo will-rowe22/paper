@@ -14,3 +14,7 @@ We add to these meausurements, with chemical composition data, using an aerosol 
 # Simulations
 John has made some simulations of particle formation using his box model.  
 It reproduces growthn in size distribution observed and suggests coagulation as the dominant method of growth.
+
+# Methodology
+
+We used AMS (Allan et al 1999) to measure particle mass and chemical compositions.
