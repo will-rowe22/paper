@@ -1,8 +1,10 @@
 # Title 
-Aircraft meausurements of Biomass burning aerosol over W.Africa
+Model-meausurement comparison of 
+Biomass burning aerosol over W.Africa
 
 #Author
 Gerrard Capes
+John Smith
 
 # Introduction 
 
