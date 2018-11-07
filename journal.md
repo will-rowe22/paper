@@ -6,6 +6,11 @@ Biomass burning aerosol over W.Africa
 Gerrard Capes
 John Smith
 
+# Abstract
+
+We write this last because it is difficult to do.  This is where we summarise our main reuslts so lazy people do not have to read
+the whole thing but can still reference it.
+
 # Introduction 
 
 Haywood et al (1999) made some great meausurements of BBOA  over the Sahara.
