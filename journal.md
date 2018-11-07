@@ -27,4 +27,8 @@ We observed particle growth through coagulation, and report the changing chemica
 
 We made some groundbreaking discovery, aren't we great. Give us more funding.
 
+# Figures
+
+This is where the figures go in a draft manuscript.
+
 
